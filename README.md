@@ -14,3 +14,5 @@ pip3 install scapy-python3
 
 ## Example
 ![image](https://user-images.githubusercontent.com/108718585/195919476-9566c9c6-4eef-4a41-b281-f07a8f7b58f5.png)
+
+DISCLAIMER: Projects and articles that I share are for EDUCATIONAL PURPOSES ONLY. Don't use them for illegal activities. You are the only responsible for your actions!
